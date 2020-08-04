@@ -1,2 +1,2 @@
 # fandango_analysis
-Comparison of Fandango's ratings before and after Walt Hickey's article on FiveThirtyEight
+In 2015, Walt Hickey published [this](https://fivethirtyeight.com/features/fandango-movies-ratings/) article for FiveThirtyEight, which exposed movie rating website Fandango for inflating their ratings. As part of Dataquest's introductory statistics course, in this project, I compare movie ratings from Fandango from both before and after Hickey's article was published, with the aim of seeing what (if any) effect the article had on Fandango's rating process. 
